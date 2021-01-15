@@ -1,0 +1,16 @@
+A computer is a electronic, electrical and magnetic device which can perform data processing.
+Computer is a very fast data processing machine which can perform millions and even billlions of operations in a single time.
+It accepts data as input then process it and gives the output to the user.
+
+The basic components of a modern computer are 
+
+1. Input device
+2.Output device
+3.Centarl Processing Unit-CPU
+and
+4.Mass storage device and memory 
+
+Control Unit
+
+control unit is known as the master unit of the computer because it controls and coordinate all other units of the CPU.
+It sends control signals all other unit of a computer system like Arithametic logic unit for specifying which operations want to be done.
