@@ -208,7 +208,10 @@ body {font-family: "Helvetica", sans-serif;}
 
 .text{
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 13c1bb37e84c722876133d406016710b1caaceea
 	font-family:Helvetica;
 	padding:20px;
 }
@@ -242,8 +245,12 @@ body {font-family: "Helvetica", sans-serif;}
 
 .para-font{
 
+<<<<<<< HEAD
 	font-size:15px;
 	margin-top: 25px;
+=======
+	margin-top: 15px;
+>>>>>>> 13c1bb37e84c722876133d406016710b1caaceea
 
 
 }
