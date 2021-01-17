@@ -31,7 +31,11 @@
 	
 	
 }
+.ii{
 
+	font-family: monospace;
+	font-weight: 900;
+}
 
 #head{
 
@@ -204,7 +208,7 @@ body {font-family: "Helvetica", sans-serif;}
 
 .text{
 
-	font-size: 17px;
+
 	font-family:Helvetica;
 	padding:20px;
 }
@@ -238,8 +242,8 @@ body {font-family: "Helvetica", sans-serif;}
 
 .para-font{
 
-	font-size:17px;
-	margin-top: 15px;
+	font-size:15px;
+	margin-top: 25px;
 
 
 }
