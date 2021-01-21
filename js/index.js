@@ -36,6 +36,7 @@ $(document).ready(function(){
 
 
 
+
 function myFunction() {
   // Declare variables
   var input, filter, ul, li, a, i, txtValue;
@@ -56,6 +57,18 @@ function myFunction() {
   }
 }
 
+$(document).ready(function(){
 
+	$('.darkmode').click(function(){
+		$('body').css("background-color",'#063146');
+		$('.section-title h1').css("color",'white');
+		$('#get-started .feature-block').css("background-color","#063146");
+		$('#get-started .feature-block a ').css("color","white")
+		$('.para-font').css('color','white')
+		$(".container").css('background-color','#063146')
+		$(".text h1").css("color",'white')
+		$(".text h3").css("color",'white')
 
+	})
+})
 

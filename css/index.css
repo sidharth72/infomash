@@ -1,3 +1,7 @@
+@charset "UTF-8";
+
+
+
 .navbar{
 
 	background-color: indigo;
@@ -9,8 +13,6 @@
 
 	
 }
-
-
 
 @media (max-width: 600px){
 	.form-control{
@@ -35,6 +37,31 @@
 
 	font-family: monospace;
 	font-weight: 900;
+}
+
+.darkmode{
+
+	border-style: solid;
+	border-color: black;
+	margin-left:10px;
+	margin-right: 100px;
+	border-radius: 20px;
+	border-width: 1px;
+	padding-left: 6px;
+
+
+}
+.whitemode{
+
+	border-style: solid;
+	border-color: black;
+	margin-top: 2px;
+	margin-left: 10px;
+	margin-right: 100px;
+	border-radius: 20px;
+	border-width: 1px;
+	padding-left: 6px;
+
 }
 
 #head{
@@ -206,15 +233,7 @@ body {font-family: "Helvetica", sans-serif;}
 	}
 }
 
-.text{
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 13c1bb37e84c722876133d406016710b1caaceea
-	font-family:Helvetica;
-	padding:20px;
-}
 
 @media (max-width: 600px){
 	.text{
@@ -245,12 +264,10 @@ body {font-family: "Helvetica", sans-serif;}
 
 .para-font{
 
-<<<<<<< HEAD
 	font-size:15px;
 	margin-top: 25px;
-=======
 	margin-top: 15px;
->>>>>>> 13c1bb37e84c722876133d406016710b1caaceea
+
 
 
 }

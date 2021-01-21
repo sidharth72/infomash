@@ -8,10 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
-  background-color: #fff;
-  color: #333;
-}
+
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
@@ -557,7 +555,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
   font-weight: 900;
   letter-spacing: 2px;
   text-transform: capitalize;
-  color:mediumseagreen;
+  color:black;
 }
 
 .section-title .separator {
@@ -1294,6 +1292,8 @@ body.mobile-nav-active #mobile-nav-toggle i {
   color: #fff;
   transition: 0.4s;
 }
+
+
 
 #contact .form button[type="submit"]:hover {
   background: #92d283;
