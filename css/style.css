@@ -1306,6 +1306,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
   background: #2a2c30;
   padding-top: 50px;
   text-align: center;
+  width: 100%;
 }
 
 .foot.footer-logo .navbar-brand {
