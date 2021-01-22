@@ -287,21 +287,19 @@ body {font-family: "Helvetica", sans-serif;}
 
 	background-color: white;
 	padding-top:40px;
-	padding-bottom:40px;
+	padding-bottom:10px;
+	
 
 }
 .footer ul{
 
 	text-align: center;
 
-
-
 }
 
 .footer a{
 
 	color:white;
-	display: contents;
 	text-decoration: none;
 
 }
