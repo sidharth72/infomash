@@ -1328,7 +1328,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 .footer .list-menu > h4 {
-  color: #fff;
+  color: white;
   padding-bottom: 20px;
 }
 
@@ -1342,22 +1342,27 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 .footer .copyrights {
-  background: #fff;
+  background: black;
   margin-top: 50px;
   text-align: center;
   padding: 25px;
 }
 
-.footer .copyrights p, .footer .copyrights .credits {
+.footer .copyrights p , .footer .copyrights .credits {
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: normal;
   font-size: 14px;
   letter-spacing: 0;
+  color:white;
 }
 
 .footer .copyrights p a, .footer .copyrights .credits a {
   letter-spacing: 0;
-  color: #71c55d;
+  color: white;
+}
+.footer h3{
+
+  color:white;
 }

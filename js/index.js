@@ -60,15 +60,43 @@ function myFunction() {
 $(document).ready(function(){
 
 	$('.darkmode').click(function(){
-		$('body').css("background-color",'#063146');
+		$('body').css("background-color",'#042331');
 		$('.section-title h1').css("color",'white');
-		$('#get-started .feature-block').css("background-color","#063146");
+		$('#get-started .feature-block').css("background-color","#042331");
 		$('#get-started .feature-block a ').css("color","white")
 		$('.para-font').css('color','white')
-		$(".container").css('background-color','#063146')
-		$(".text h1").css("color",'white')
-		$(".text h3").css("color",'white')
+		$(".container").css('background-color','#042331')
+		$(".text h1").css("color",'white');
+		$(".text h3").css("color",'white');
+		$('footer a').css("color",'white');
+		$('footer h2').css("color",'white');
+		$('footer h4').css("color",'white');
+
+
 
 	})
 })
+
+
+
+$(document).ready(function(){
+
+	$('.whitemode').click(function(){
+		$('body').css("background-color",'white');
+		$('.section-title h1').css("color",'black');
+		$('#get-started .feature-block').css("background-color","white");
+		$('#get-started .feature-block a ').css("color","black")
+		$('.para-font').css('color','black')
+		$(".container").css('background-color','white')
+		$(".text h1").css("color",'black');
+		$(".text h3").css("color",'black');
+		$('footer a').css("color",'white');
+		$('footer h2').css("color",'black');
+		$('footer h4').css("color",'black');
+
+
+
+	})
+})
+
 
