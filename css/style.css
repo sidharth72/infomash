@@ -1302,13 +1302,13 @@ body.mobile-nav-active #mobile-nav-toggle i {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-.footer {
+.foot {
   background: #2a2c30;
   padding-top: 50px;
   text-align: center;
 }
 
-.footer .footer-logo .navbar-brand {
+.foot.footer-logo .navbar-brand {
   color: #fff;
   display: inline-block;
   float: none;
@@ -1321,18 +1321,18 @@ body.mobile-nav-active #mobile-nav-toggle i {
   padding-top: 0;
 }
 
-.footer .footer-logo p {
+.foot .footer-logo p {
   color: #fff;
   font-size: 12px;
   letter-spacing: 1px;
 }
 
-.footer .list-menu > h4 {
+.foot .list-menu > h4 {
   color: white;
   padding-bottom: 20px;
 }
 
-.footer .list-menu ul li a {
+.foot .list-menu ul li a {
   color: #fff;
   font-size: 12px;
   padding-left: 5px;
@@ -1341,14 +1341,14 @@ body.mobile-nav-active #mobile-nav-toggle i {
   
 }
 
-.footer .copyrights {
+.foot .copyrights {
   background: black;
   margin-top: 50px;
   text-align: center;
   padding: 25px;
 }
 
-.footer .copyrights p , .footer .copyrights .credits {
+.foot .copyrights p , .footer .copyrights .credits {
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
@@ -1358,11 +1358,12 @@ body.mobile-nav-active #mobile-nav-toggle i {
   color:white;
 }
 
-.footer .copyrights p a, .footer .copyrights .credits a {
+.foot .copyrights p a, .footer .copyrights .credits a {
   letter-spacing: 0;
   color: white;
 }
-.footer h3{
+
+.foot .copyrights h3{
 
   color:white;
 }

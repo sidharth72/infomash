@@ -68,9 +68,7 @@ $(document).ready(function(){
 		$(".container").css('background-color','#042331')
 		$(".text h1").css("color",'white');
 		$(".text h3").css("color",'white');
-		$('footer a').css("color",'white');
-		$('footer h2').css("color",'white');
-		$('footer h4').css("color",'white');
+
 
 
 
@@ -90,9 +88,8 @@ $(document).ready(function(){
 		$(".container").css('background-color','white')
 		$(".text h1").css("color",'black');
 		$(".text h3").css("color",'black');
-		$('footer a').css("color",'white');
-		$('footer h2').css("color",'black');
-		$('footer h4').css("color",'black');
+
+
 
 
 

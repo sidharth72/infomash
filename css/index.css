@@ -283,22 +283,5 @@ body {font-family: "Helvetica", sans-serif;}
 	}
 }
 
-footer{
-
-	text-align: center;
-	margin-top: 100px;
-	line-height: 2;
-	border-top-style: solid;
-	border-top-width: 1px;
-	border-top-color: hsl(0,0%,86%);
-	
-	font-size:20px;
-	padding: 40px;
 
 
-}
-
-footer a{
-
-	color: black;
-}
