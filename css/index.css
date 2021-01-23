@@ -300,11 +300,7 @@ body {font-family: "Helvetica", sans-serif;}
 .footer a{
 
 	color:black;
-	display: contents;
-
-	color:white;
-
-	text-decoration: none;
+	text-align: center;
 
 }
 .footer a:hover{
