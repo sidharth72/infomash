@@ -287,21 +287,24 @@ body {font-family: "Helvetica", sans-serif;}
 
 	background-color: white;
 	padding-top:40px;
-	padding-bottom:40px;
+	padding-bottom:10px;
+	
 
 }
 .footer ul{
 
 	text-align: center;
 
-
-
 }
 
 .footer a{
 
+<<<<<<< HEAD
 	color:black;
 	display: contents;
+=======
+	color:white;
+>>>>>>> 46d5548a546b26bfb5421d6bd48ce85b63b35323
 	text-decoration: none;
 
 }
