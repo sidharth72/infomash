@@ -68,6 +68,11 @@ $(document).ready(function(){
 		$(".container").css('background-color','#042331')
 		$(".text h1").css("color",'white');
 		$(".text h3").css("color",'white');
+		$('.footer').css("background-color",'#042331');
+		$('.footer a').css("color",'white');
+		$('.footer h2').css("color",'white');
+		$('.footer p').css("color",'white');
+
 
 
 
