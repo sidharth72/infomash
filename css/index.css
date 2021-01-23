@@ -283,38 +283,3 @@ body {font-family: "Helvetica", sans-serif;}
 	}
 }
 
-.footer{
-
-	background-color: white;
-	padding-top:40px;
-	padding-bottom:10px;
-	
-
-}
-.footer ul{
-
-	text-align: center;
-
-}
-
-.footer a{
-
-	color:black;
-	text-align: center;
-
-}
-.footer a:hover{
-
-	color:green;
-}
-.footer h2{
-
-	color:black;
-	text-align: center;
-}
-
-.footer p{
-	color:black;
-	text-align: center;
-}
-
