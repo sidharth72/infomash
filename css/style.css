@@ -67,6 +67,9 @@ p {
   height: 200px;
   margin-bottom: 30px;
   width: 250px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
  
 }
 
