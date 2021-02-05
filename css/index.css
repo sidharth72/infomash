@@ -72,6 +72,12 @@
 
 }
 
+.btn-primary{
+
+	margin-left: 20px;
+	border-radius: 10px;
+}
+
 
 
 .btn.btn-primary{
@@ -238,6 +244,7 @@ body {font-family: "Helvetica", sans-serif;}
 	.text{
 
 		padding:2px;
+		
 	}
 }
 
