@@ -111,7 +111,6 @@
 	font-weight: 400;
 	border-style: solid;
 	border-radius:20px;
-	border-width: 2px;
 	border-color: white;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -277,10 +276,7 @@ body {font-family: "Helvetica", sans-serif;}
 
 
 }
-.image{
 
-	border-radius: 7px;
-}
 @media only screen and (max-width: 600px){
 	.image{
 
