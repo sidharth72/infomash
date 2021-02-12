@@ -1309,7 +1309,15 @@ body.mobile-nav-active #mobile-nav-toggle i {
 .footer .container{
 
   background-color: #2a2c30;
+
   
+}
+
+
+.footer .container p{
+
+  padding-bottom: 40px;
+  height: 100%;
 }
 
 .footer .footer-logo .navbar-brand {
