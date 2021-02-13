@@ -68,10 +68,10 @@ $(document).ready(function(){
 		$(".container").css('background-color','#042331')
 		$(".text h1").css("color",'white');
 		$(".text h3").css("color",'white');
-		$('.footer').css("background-color",'#042331');
-		$('.footer a').css("color",'white');
-		$('.footer h2').css("color",'white');
-		$('.footer p').css("color",'white');
+		$('footer').css("background-color",'#042331');
+		$('footer a').css("color",'white');
+		$('footer h2').css("color",'white');
+		$('footer p').css("color",'white');
 
 
 
@@ -91,7 +91,9 @@ $(document).ready(function(){
 		$('#get-started .feature-block a ').css("color","black")
 		$('.para-font').css('color','black')
 		$(".container").css('background-color','white');
-		$('.footer').css("background-color",'white');
+		$('footer').css("background-color",'white');
+		$(".text h1").css("color",'black');
+		$(".text h3").css("color",'black');
 		$("footer .list-menu ul li a").css('color','black')
 		$("footer .container h2").css("color","black");
 		$("footer .container p").css("color","black");
