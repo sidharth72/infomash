@@ -176,9 +176,11 @@
 
 
 
-.container{
+.container .main{
 
 	background-color: hsl(0,0%,100%);
+	width: 70%;
+
 }
 
 body {font-family: "Helvetica", sans-serif;}
@@ -213,7 +215,7 @@ body {font-family: "Helvetica", sans-serif;}
 }
 
 .main {
-  margin-left: 100px; /* Same as the width of the sidenav */
+  margin-left: 10px; /* Same as the width of the sidenav */
   padding: 0px 10px;
   margin-top: 60px;
 }
@@ -269,7 +271,7 @@ body {font-family: "Helvetica", sans-serif;}
 
 .para-font{
 
-	font-size:15px;
+	font-size:17px;
 	margin-top: 25px;
 	margin-top: 15px;
 
