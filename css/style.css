@@ -146,6 +146,7 @@ p {
   transition: all 0.5s ease;
 }
 
+
 #header #logo {
   padding: 6px 0 0 0;
 }
@@ -163,6 +164,14 @@ p {
   line-height: 1;
   display: inline-block;
   text-decoration: none;
+}
+@media (max-width:600px){
+  #header #logo h1 a{
+    color:grey;
+  }
+  #header{
+    background-color: white;
+  }
 }
 
 #header #logo h1 a span {
@@ -430,6 +439,11 @@ p {
 #mobile-nav-toggle i {
   color: white;
   font-size: 24px;
+}
+@media (max-width:600px){
+  #mobile-nav-toggle i{
+    color:black;
+  }
 }
 
 @media (max-width: 1024px) {
